@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sofia Corradi</h1>
-<h3 align="center">I am an engineer working in the environment field and enthusiastic about technology.</h3>
+<h3 align="center">I am an engineer working in the environmental field and enthusiastic about technology.</h3>
 <h3 align="center">My pronouns are she/her.</h3>
 
 - 🔭 I’m currently working on **Raizama**
@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate with **women**
 
 - 🤝 I’m looking for help with **front-end**
-
-- 📫 How to reach me **sofiacorradio@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
