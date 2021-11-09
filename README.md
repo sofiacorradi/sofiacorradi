@@ -2,13 +2,11 @@
 <h3 align="center">I am an engineer working in the environmental field and enthusiastic about technology.</h3>
 <h3 align="center">My pronouns are she/her.</h3>
 
-- 🔭 I’m currently working on **Raizama**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate with **women**
 
-- 🤝 I’m looking for help with **front-end**
+- 🤝 I’m looking for help with **data science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
