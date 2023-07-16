@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sofia Corradi</h1>
 <h3 align="center">I am an engineer working with environmental systems.</h3>
 
-- 🌱 I’m currently advancing in **Python** and **R**
+- I’m currently advancing in **Python** and **R**
 
-- 👯 I’m looking to collaborate with **women**
-
-- 🤝 I’m looking for help with **data science**
+- I’m looking for collaboration in **geoscience**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
